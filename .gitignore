@@ -1,0 +1,17 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# BI/artifacts (if you add later)
+*.pbix
+*.pbit
+*.rdl
+*.rpt
+
+# Local data dumps (never commit raw data)
+data/
+*.csv
+*.xlsx
+*.tsv
